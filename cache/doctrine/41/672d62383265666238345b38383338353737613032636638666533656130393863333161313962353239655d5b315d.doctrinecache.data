@@ -1,0 +1,65 @@
+1471273895
+a:2:{s:7:"content";s:2687:"<table>
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th style="text-align: center;">Core &amp; Shell</th>
+<th style="text-align: center;">New &amp; Existing Interiors</th>
+<th style="text-align: center;">New &amp; Existing Buildings</th>
+<th style="text-align: center;">Commercial Kitchen</th>
+<th style="text-align: center;">Education</th>
+<th style="text-align: center;">Multifamily Residential</th>
+<th style="text-align: center;">Restaurant</th>
+<th style="text-align: center;">Retail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1: Full Control</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>2: Outdoor Air Measurement</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>3: Window Operation Management</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>99: (OLD) Natural Ventilation Standards</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+</tr>
+</tbody>
+</table>
+<p>===</p>
+<p>Achieving natural ventilation through open windows, doors and louvers can provide a positive occupant experience, but challenges the ability to maintain strict control over interior air quality. When weather and local ambient parameters indicate high quality outdoor air, WELL encourages the use of natural ventilation strategies. Open windows can then provide a supply of fresh air and lower the levels of carbon dioxide and VOCs, such as formaldehyde, without compromising indoor air quality.</p>
+<p>This feature requires that local outdoor air quality conditions, including annual prevailing breeze patterns and average contaminant levels, be analyzed before integrating operable windows into the design.</p>";s:12:"content_meta";N;}

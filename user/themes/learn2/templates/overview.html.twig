@@ -1,0 +1,21 @@
+{% include 'docs.html.twig' %}
+
+<style>
+#body .padding {
+	padding-bottom: 0rem !important;	
+}
+#top-bar {
+	display: none;
+}
+</style>
+
+<section id="overviewConcepts">
+	<ul class="concepts-list">
+	    {% for page in pages.children %}
+	        {% if page.title != 'Overview' and page.title !='Glossary' %}
+	            <li><a href="{{ page.url }}"><h4 class="concept-title">{{ page.title }}</h4></a>
+	            <p>{{ page.summary }}</p></li>
+	        {% endif %}
+	    {% endfor %}
+	</ul>
+</section>

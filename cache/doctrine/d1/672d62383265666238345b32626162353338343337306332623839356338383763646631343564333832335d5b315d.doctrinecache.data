@@ -1,0 +1,54 @@
+1471273895
+a:2:{s:7:"content";s:2339:"<table>
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th style="text-align: center;">Core &amp; Shell</th>
+<th style="text-align: center;">New &amp; Existing Interiors</th>
+<th style="text-align: center;">New &amp; Existing Buildings</th>
+<th style="text-align: center;">Commercial Kitchen</th>
+<th style="text-align: center;">Education</th>
+<th style="text-align: center;">Multifamily Residential</th>
+<th style="text-align: center;">Restaurant</th>
+<th style="text-align: center;">Retail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1: Relative Humidity</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>2: Shower Moisture Barrier</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td>3: Kitchen Humidity</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+</tr>
+</tbody>
+</table>
+<p>===</p>
+<p>Extremely low humidity can lead to dryness and irritation of the skin, eyes, throat and mucous membranes. Conversely, high humidity may promote the accumulation and growth of microbial pathogens, including bacteria, dust mites and mold, which can lead to odors and cause respiratory irritation and allergies in sensitive individuals. Additionally, higher humidity levels can lead to increased off-gassing: an increase in relative humidity of 35% can increase the emissions of formaldehyde by a factor of 1.8-2.6.</p>
+<p>This feature requires buildings to provide humidification when relative humidity is low and dehumidification when relative humidity is high. This feature is dependent on local climate conditions and expected humidity.</p>";s:12:"content_meta";N;}

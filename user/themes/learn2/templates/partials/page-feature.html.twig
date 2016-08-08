@@ -1,0 +1,14 @@
+<div id="body-inner">
+{% set order = page.order|trim('.') %}
+<h2 class="text-center">Feature {{ order|number_format(0,'.','') }}: {{ page.title }}</h2>
+<p>
+	{% set content = page.content|slice(page.summary|length) %}
+	<div style="width: 80%; float:left;">
+	{{ content }}
+	</div>
+	<div class="feature-image" style="width: 20%; float: right;">
+		{% set feature_image = page.media['feature-image.png'] %}
+		{{ feature_image }}
+	</div>
+</p>
+</div>

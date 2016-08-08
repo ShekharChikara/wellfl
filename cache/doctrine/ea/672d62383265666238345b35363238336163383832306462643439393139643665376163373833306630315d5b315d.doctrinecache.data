@@ -1,0 +1,54 @@
+1471270658
+a:2:{s:7:"content";s:2199:"<table>
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th style="text-align: center;">Core &amp; Shell</th>
+<th style="text-align: center;">New &amp; Existing Interiors</th>
+<th style="text-align: center;">New &amp; Existing Buildings</th>
+<th style="text-align: center;">Commercial Kitchen</th>
+<th style="text-align: center;">Education</th>
+<th style="text-align: center;">Multifamily Residential</th>
+<th style="text-align: center;">Restaurant</th>
+<th style="text-align: center;">Retail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1: Indoor Air Monitoring</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>2: Air Data Record Keeping and Response</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>3: Environmental Measures Display</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+<td style="text-align: center;">O</td>
+</tr>
+</tbody>
+</table>
+<p>===</p>
+<p>Building performance, such as ventilation and infiltration rates, is highly variable and has a direct effect on indoor air quality. To maintain ideal performance metrics, projects must continuously gather data on building performance. Collecting this data allows individuals to be aware of and promptly fix any deviations in indoor quality metrics.</p>
+<p>This feature requires real-time measurement, recording and transmission of key indoor air quality metrics as well as ambient outdoor air quality. This data is reported to the building occupants and to the IWBI.</p>";s:12:"content_meta";N;}

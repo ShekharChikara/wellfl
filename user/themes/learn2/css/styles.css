@@ -1,0 +1,84 @@
+#header div.logo-text {
+	font-size: 17px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: white;
+}
+
+#overviewConcepts, div.feature-summary, #conceptFeatures {
+	margin-left: 300px;
+	margin-top: -3rem;
+	clear: both;
+}
+
+#overviewConcepts ul.concepts-list, #conceptFeatures{
+	padding: 0rem 6rem;
+}
+
+ul.features-list {
+	list-style: none;
+	padding-left: 0px !important;
+}
+
+div.feature-summary h4 {
+	padding: 0rem 6rem;
+}
+
+div.feature-summary table, ul.features-list table {
+	margin: 0rem 6rem;
+	width: auto;
+	margin-bottom: 3rem;
+}
+
+.feature-summary table th, ul.features-list table th {
+	font-size: 11px;
+	font-weight: 600;
+	border: 1px solid #eaeaea;
+}
+
+ul.concepts-list h4.concept-title {
+	text-transform: uppercase;
+	font-weight: 500;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.text-center {
+	text-align: center;
+}
+
+div.feature-image img {
+	border-radius: 4px;
+    border: 1px solid #eaeaea;
+    margin-top: 2rem !important;
+}
+
+table.features-compliance {
+	width: 70%;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+td.comp-pre {
+	background-color: #4D4D50;
+	color: white;
+}
+
+td.comp-opt {
+	background-color: #9DA0A2;
+	color: white;
+}
+
+td.cert-pre {
+	background-color: #5899CE;
+	color: white;
+}
+
+td.cert-opt {
+	background-color: #96CDEF;
+	color: white;
+}
+
+td.cert-none, td.comp-none {
+	background-color: #D8D8D8;
+}

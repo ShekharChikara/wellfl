@@ -1,0 +1,11 @@
+email: shekhar@groupten.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Shekhar Chikara'
+title: 'Site Admin'
+state: enabled
+hashed_password: $2y$10$r86ujB5CHgEWsMb9KU6r2eBAD3hYKUXxuA5ylFJpgbFB.zbXx7VqO

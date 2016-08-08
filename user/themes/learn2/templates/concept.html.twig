@@ -1,0 +1,31 @@
+{% include 'docs.html.twig' %}
+
+<style>
+#body .padding {
+	padding-bottom: 0rem !important;	
+}
+</style>
+
+<section id="conceptFeatures">
+	<h3>{{page.title}} Feature Level Matrix</h2>
+	<table class="features-compliance">
+		<tr>
+			<td>COMPLIANCE</td>
+			<td class="text-center comp-pre">PRECONDITION</td>
+			<td class="text-center comp-opt">OPTIMIZATION</td>
+		</tr>
+		<tr>
+			<td>CERTIFICATION</td>
+			<td class="text-center cert-pre">PRECONDITION</td>
+			<td class="text-center cert-opt">OPTIMIZATION</td>
+		</tr>
+	</table>
+
+	<ul class="features-list">
+	    {% for feature in page.children %}
+	    	{% set order = feature.order|trim('.') %}
+	            <li><a href="{{ feature.url }}"><h4 class="feature-title">{{ order|number_format(0,'.','') }}. {{ feature.title }}</h4></a>
+	            <p>{{ feature.summary }}</p></li>
+	    {% endfor %}
+	</ul>
+</section>
