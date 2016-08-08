@@ -24,8 +24,13 @@ div.feature-summary h4 {
 	padding: 0rem 6rem;
 }
 
-div.feature-summary table, ul.features-list table {
+div.feature-summary table{
 	margin: 0rem 6rem;
+	width: auto;
+	margin-bottom: 3rem;
+}
+
+ul.features-list table {
 	width: auto;
 	margin-bottom: 3rem;
 }
